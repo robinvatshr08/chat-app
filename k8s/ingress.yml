@@ -10,7 +10,7 @@ metadata:
     nginx.ingress.kubernetes.io/ssl-redirect: "false"
 spec:
   rules:
-  - host: chat-with-robin.com
+  - host: chat-with-robinvats.com
     http:
       paths:
       - pathType: Prefix
